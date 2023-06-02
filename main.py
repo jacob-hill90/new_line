@@ -19,4 +19,4 @@ subprocess.call(['git', 'add', file_path])
 subprocess.call(['git', 'commit', '-m', 'Added new line of code'])
 
 # Push the changes to GitHub
-subprocess.call(['git', 'push', 'origin', 'master'])
+subprocess.call(['git', 'push', 'origin', 'main'])
