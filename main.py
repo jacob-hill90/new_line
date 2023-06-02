@@ -5,7 +5,7 @@ repository_path = '/Users/jacobhill/Desktop/new_line'
 
 # Define the file path and the line of code to add
 file_path = '/Users/jacobhill/Desktop/new_line/print.py'
-new_line = 'print("Hello, Tenz!")'
+new_line = 'print("Hello, There!")'
 
 # Change directory to the repository path
 subprocess.call(['cd', repository_path])
