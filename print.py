@@ -18,4 +18,13 @@ print("Hello, World!")
 print("Hello, World!")
 print("Hello, World!")
 print("Hello, World!")
+<<<<<<< HEAD
+=======
+print("Hello, World!")
+print("Hello, World!")
+print("Hello, World!")
+print("Hello, World!")
+print("Hello, World!")
+>>>>>>> cd4ce796c2f9f605dfbde03e203f1bb143e3a97b
+print("Hello, World!")
 print("Hello, World!")
