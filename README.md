@@ -1,1 +1,3 @@
-# Semi automated write, commit, push program written in python. Just for fun 
+# Automation practice
+
+Semi automated write, commit, push program written in python. Just for fun 
